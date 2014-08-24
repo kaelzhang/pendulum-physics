@@ -1,0 +1,23 @@
+{
+  "name": "pendulum-physics",
+  "version": "0.1.0",
+  "description": "A module to handle pendulum movements",
+  "main": "index.js",
+  "repository": "git://github.com/kaelzhang/pendulum-physics.git",
+  "keywords": [
+    "pendulum",
+    "physics",
+    "angular",
+    "velocity",
+    "angle"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "kael",
+    "email": "i@kael.me"
+  },
+  "bugs": {
+    "url": "http://github.com/kaelzhang/pendulum-physics/issues"
+  },
+  "homepage": "http://github.com/kaelzhang/pendulum-physics"
+}
