@@ -21,14 +21,14 @@ bash, js, json, html, css 等
 ```js
 var pendulum = require('simple-pendulum');
 var p = pendulum({
-  init_angle: -90
-  init_augular_velocity: 0
-  damping: 0.9,
-  mass: 3
+  max_angle: 90,
+  max_angular_velocity: 200
 });
+
+p.when.angle(0).angular_velocity(); // 200
 ```
 
 
 ## License
 
-The MIT License.
+The MIT License
