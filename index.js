@@ -20,7 +20,7 @@ alert('Hello world!');
 
 // 3. define exports:
 // `exports` is the API of the current module,
-// If another module `require('pendulum-physics')`, it returns `exports`
+// If another module `require('simple-pendulum')`, it returns `exports`
 
 // exports.my_method = function() {
 // };

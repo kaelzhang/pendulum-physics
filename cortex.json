@@ -1,6 +1,6 @@
 // You could write comments in cortex.json.
 {
-  "name": "pendulum-physics",
+  "name": "simple-pendulum",
   "version": "0.1.0",
   "description": "A module to handle pendulum movements",
   "main": "index.js",
@@ -41,7 +41,7 @@
   //   "src": "src"
   // },
 
-  "repository": "git://github.com/kaelzhang/pendulum-physics.git",
+  "repository": "git://github.com/kaelzhang/simple-pendulum.git",
   "keywords": [
     "pendulum",
     "physics",
@@ -55,7 +55,7 @@
     "email": "i@kael.me"
   },
   "bugs": {
-    "url": "http://github.com/kaelzhang/pendulum-physics/issues"
+    "url": "http://github.com/kaelzhang/simple-pendulum/issues"
   },
-  "homepage": "http://github.com/kaelzhang/pendulum-physics"
+  "homepage": "http://github.com/kaelzhang/simple-pendulum"
 }
